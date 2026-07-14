@@ -2,7 +2,7 @@
 
 **IT Officer & ERP Consultant** — I build and run systems end to end, from mobile apps to self-hosted servers and AI.
 
-- 🏢 IT Officer @ Global Magick Indonesia
+- 🏢 IT Officer @ General Magick Indonesia
 - 🧩 ERPNext implementation, custom apps & business-process automation
 - 🤖 Self-hosted open-source LLMs & MCP servers — AI that runs cheaply inside the ERP
 - 🌐 Full-stack: Vue 3 · Python · Kotlin · Java · Swift · Flutter
