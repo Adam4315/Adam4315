@@ -54,7 +54,7 @@
 
 <br/>
 
-<!-- <img src="https://github.com/Adam4315/Adam4315/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/> -->
+<img src="https://github.com/Adam4315/Adam4315/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
 <div align="center">
 
