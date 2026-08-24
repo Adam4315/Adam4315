@@ -1,190 +1,74 @@
-<div align="center">
+﻿<div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  ▶ LOADING CART: adambravia.p8                                ║
-║                                                               ║
-║   █▀█ █▀▄ █▀█ █▀▄▀█   █▀▄ █▀█ █▀█ █ █ █ █▀█                   ║
-║   █▀█ █ █ █▀█ █ ▀ █   █▀▄ █▀▄ █▀█ ▀▄▀ █ █▀█                   ║
-║   ▀ ▀ ▀▀  ▀ ▀ ▀   ▀   ▀▀  ▀ ▀ ▀ ▀  ▀  ▀ ▀ ▀                   ║
-║                                                               ║
-║          THE ERP CONSULTANT — A PORTFOLIO QUEST               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d43d2a,50:1a1a1a,100:0d0d0d&height=190&section=header&text=Adam%20Bravia%20Suksma&fontSize=40&fontColor=f3ede2&desc=ERP%20Consultant%20%C2%B7%20AI%20inside%20ERPNext%20%C2%B7%20Cinematic%20Web&descSize=16&descAlignY=68&animation=fadeIn" width="100%" alt="header"/>
 
-### `LV.19` · IT PROFESSIONAL & ERP CONSULTANT
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=D43D2A&center=true&vCenter=true&random=false&width=640&lines=ERPNext%2C+end+to+end+-+admin%2C+custom+apps%2C+automation;Self-hosted+LLMs+answering+real+business+questions;Cinematic+web+experiences+that+assemble+themselves;Docker+%2B+Kubernetes+on+an+immutable+pipeline)](https://web.adambravia.site)
 
-![HP](https://img.shields.io/badge/HP-999-59c135?style=flat-square&labelColor=141013)
-![MP](https://img.shields.io/badge/MP-512-249fde?style=flat-square&labelColor=141013)
-![XP](https://img.shields.io/badge/XP-1020_·_MAX-ffd541?style=flat-square&labelColor=141013)
-![RANK](https://img.shields.io/badge/RANK-LEGEND-f9a31b?style=flat-square&labelColor=141013)
-![TROPHIES](https://img.shields.io/badge/◆-8%2F8-bc4a9b?style=flat-square&labelColor=141013)
-
-[![TOWN](https://img.shields.io/badge/▶_TOWN-285cc4?style=for-the-badge&labelColor=141013)](https://adambravia.site)
-[![TALK](https://img.shields.io/badge/✉_TALK-df3e23?style=for-the-badge&labelColor=141013)](mailto:contact@adambravia.site)
-[![GUILD](https://img.shields.io/badge/⚔_GUILD-249fde?style=for-the-badge&labelColor=141013)](https://www.linkedin.com/in/adam-bravia-suksma-4ba8783a7/)
+[![Website](https://img.shields.io/badge/web.adambravia.site-000?style=for-the-badge&logo=about.me&logoColor=D43D2A)](https://adambravia.site)
+[![Jasa Website](https://img.shields.io/badge/jasa_website-D43D2A?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://web.adambravia.site)
+[![DocType Explorer](https://img.shields.io/badge/erpnext_doctype_explorer-1a1a1a?style=for-the-badge&logo=mapbox&logoColor=7fa8c4)](https://doctype.adambravia.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/adam-bravia-suksma-4ba8783a7/)
 
 </div>
 
----
+## ⚡ What I actually do
 
-## `▸ STATUS` — Character Sheet
+> IT Officer & ERP Consultant at **Global Magick Indonesia** — I own the company ERP end to end, then build the things it's missing instead of waiting for a vendor.
 
-```
-┌───────────────────────────────────────────────────────────────┐
-│  ADAM BRAVIA SUKSMA                              HERO · LV.19 │
-├───────────────────────────────────────────────────────────────┤
-│  ROLE        │  IT Officer & ERP Consultant                   │
-│  BASED IN    │  Depok, West Java, ID                          │
-│  FOCUS       │  Cross-platform · ERP · Automation             │
-│  BACKGROUND  │  Informatics + Visual Design                   │
-└───────────────────────────────────────────────────────────────┘
-```
+- 🔧 **ERPNext, full depth** — multi-company, multi-currency, POS, payroll, fixed assets, migrations with zero broken books
+- 🤖 **AI inside the ERP** — a LazyChat assistant with ~95 permission-scoped tools, two-phase safe writes, critic-model verification
+- 🏭 **Custom apps** — performance-appraisal suite, mobile warehouse PWA, payments (Stripe + Xendit), email automation
+- 🌍 **Cinematic web** — WebGL worlds, scroll storytelling, procedural everything → [live demos](https://web.adambravia.site/atlas/towers.html)
+- 🐳 **Infra** — Docker + Kubernetes, baked-image pipeline, Cloudflare Tunnel, self-hosted open-source models
 
-> *"Versatile by default — if it runs on a machine, I can build it, ship it, and keep it running."*
+<br/>
 
-A versatile IT professional and ERP consultant with a background in technical training and
-system implementation. I specialize in digital transformation for the agricultural sector,
-bridging the gap between complex business requirements and technical solutions.
+## 🎮 Featured builds — every card is clickable
 
----
+| | Build | Link |
+|---|---|---|
+| 🏝️ | **Towers** — six architectures that build themselves in 4.4s | [web.adambravia.site/atlas/towers.html](https://web.adambravia.site/atlas/towers.html) |
+| 🏮 | **Kage** — five-chapter night walk through a Kyoto temple | [web.adambravia.site/atlas/kage.html](https://web.adambravia.site/atlas/kage.html) |
+| 🌿 | **Sylva** — 250k instanced moss blades that part around your cursor | [web.adambravia.site/atlas/sylva.html](https://web.adambravia.site/atlas/sylva.html) |
+| 📚 | **Complete Shelf** — seven clothbound 3D books you can open | [web.adambravia.site/atlas/shelf.html](https://web.adambravia.site/atlas/shelf.html) |
+| 🗺️ | **DocType Explorer** — the ERPNext schema as a living atlas | [doctype.adambravia.site](https://doctype.adambravia.site) |
+| 💼 | **Jasa Website** — fixed-price static sites, no monthly fees | [web.adambravia.site](https://web.adambravia.site) |
 
-## `▸ SKILLS` — Equipped
-
-| Slot | Loadout |
-|:--|:--|
-| ⚔️ **WEAPON** | ![Python](https://img.shields.io/badge/Python-ffd541?style=flat-square&logo=python&logoColor=141013) ![Vue 3](https://img.shields.io/badge/Vue_3-59c135?style=flat-square&logo=vue.js&logoColor=141013) ![Frappe](https://img.shields.io/badge/Frappe_·_ERPNext-249fde?style=flat-square&logoColor=141013) |
-| 🛡️ **ARMOR** | ![Docker](https://img.shields.io/badge/Docker-285cc4?style=flat-square&logo=docker&logoColor=e3e6ff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-285cc4?style=flat-square&logo=kubernetes&logoColor=e3e6ff) ![Linux](https://img.shields.io/badge/Linux-141013?style=flat-square&logo=linux&logoColor=ffd541) ![Cloudflare](https://img.shields.io/badge/Cloudflare-f9a31b?style=flat-square&logo=cloudflare&logoColor=141013) |
-| 📱 **SUB** | ![Kotlin](https://img.shields.io/badge/Kotlin-bc4a9b?style=flat-square&logo=kotlin&logoColor=e3e6ff) ![Java](https://img.shields.io/badge/Java-df3e23?style=flat-square&logo=openjdk&logoColor=e3e6ff) ![Swift](https://img.shields.io/badge/Swift-f9a31b?style=flat-square&logo=swift&logoColor=141013) ![Flutter](https://img.shields.io/badge/Flutter-249fde?style=flat-square&logo=flutter&logoColor=141013) |
-| ✨ **MAGIC** | ![LLMs](https://img.shields.io/badge/Self--hosted_LLMs-bc4a9b?style=flat-square&logoColor=e3e6ff) ![MCP](https://img.shields.io/badge/MCP_Servers-59c135?style=flat-square&logoColor=141013) |
-
----
-
-## `▸ QUESTS` — Systems I Shipped
-
-<details>
-<summary><b>⚔️ MAIN QUEST · ERP with AI</b> &nbsp;<code>LEGENDARY</code> &nbsp;— ▶ PRESS TO EXAMINE</summary>
-
-<br>
-
-A natural-language AI assistant docked right inside the ERP desk — ask a question the way a
-stakeholder would phrase it, and it plans the query, runs it against live data, and returns the
-answer as a report, table, or chart. It turns *"can I get this by end of day?"* into a shareable
-URL in minutes.
-
-- **95 permission-scoped tools** that respect every user's existing roles
-- **Two-phase safe writes** — stage the change, review sample rows, then apply
-- **Composer–critic verification** — a second model grades generated SQL before commit
-- Reports, dashboards & reconciliations generated from a plain-English ask
-- **Bring-your-own-LLM** — paste any provider's curl; the API key never leaves the browser
-- Runs on **self-hosted open-source models** to keep token cost near zero
-- In-chat charts & KPI cards — bar, line, area, donut, scatter rendered inline
-
-`Custom ERP App` `AI Agent` `Python · Vue 3`
-
-</details>
-
-<details>
-<summary><b>✦ SIDE QUEST · Multi-National ERP</b> &nbsp;<code>PERSONAL</code> &nbsp;— ▶ PRESS TO EXAMINE</summary>
-
-<br>
-
-A personal build: a full holding group running in a single ERP instance — **9 companies across
-8 countries and 8 currencies**, with inter-company trading, per-entity chart of accounts and tax,
-consolidated group finance, payroll, POS, and fixed assets. Every book scripted and fully
-reproducible. My sandbox for proving multi-entity, multi-currency ERP end to end.
-
-`Personal` `Multi-entity` `Multi-currency`
-
-</details>
-
-<details>
-<summary><b>🗡️ QUEST · Custom Goal & Performance App</b> &nbsp;<code>RARE</code> &nbsp;— ▶ PRESS TO EXAMINE</summary>
-
-<br>
-
-A full performance-appraisal module: KRA and goal setting with an approval workflow, self and
-manager evaluation, automated server-side scoring and banding, an email engine with daily
-reminders, and four analytics reports built for HR.
-
-`Custom ERP App` `HR`
-
-</details>
-
-<details>
-<summary><b>🗡️ QUEST · Warehouse Operations PWA</b> &nbsp;<code>RARE</code> &nbsp;— ▶ PRESS TO EXAMINE</summary>
-
-<br>
-
-A mobile-first (Vue 3 + PWA) warehouse app on an ERP backend: stock entry, picking, and
-stock-take from a phone, with per-user token authentication and role-based access.
-
-`Warehouse PWA` `Vue 3`
-
-</details>
-
-<details>
-<summary><b>🗡️ QUEST · E-commerce & Payments Integration</b> &nbsp;<code>RARE</code> &nbsp;— ▶ PRESS TO EXAMINE</summary>
-
-<br>
-
-Connected the ERP to an e-commerce storefront and wired up payments end to end — **Stripe** for
-international cards and **Xendit** for the Indonesian market — so orders, inventory, and
-settlements stay in sync automatically.
-
-`Integration` `Payments`
-
-</details>
-
-<details>
-<summary><b>✦ SIDE QUEST · This Portfolio</b> &nbsp;<code>PERSONAL</code> &nbsp;— ▶ PRESS TO EXAMINE</summary>
-
-<br>
-
-An 8-bit RPG portfolio — designed and built by me, hand-written HTML, CSS, and an interactive
-canvas. No website builder, no third-party page host. Playable at
-**[adambravia.site](https://adambravia.site)**.
-
-`Personal` `Design + Dev` `Self-hosted`
-
-</details>
-
----
-
-## `▸ RECORDS` — Cleared
-
-```
-  ┌─────────┬──────────────────────────────────┐
-  │   202   │  Page user manual authored       │
-  │    9    │  Company group, one instance     │
-  │    4+   │  Enterprise training programs    │
-  │  100%   │  Data integrity on migration     │
-  └─────────┴──────────────────────────────────┘
-```
-
----
-
-## `▸ TROPHY CASE` — 8/8
+<br/>
 
 <div align="center">
 
-| 🗺️ | 🔎 | 🐤 | 🏅 | ⚔️ | 💎 | 🎮 | ✉️ |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| World<br>Explorer | Quest<br>Examiner | Flappy<br>Rookie | Flappy<br>Legend | Monolith<br>Slayer | Treasure<br>Hunter | The<br>Code | Networker |
+### 🧰 The stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,vue,flutter,docker,kubernetes,linux,mysql,bash,git,github,vscode,md&perline=14" alt="stack"/>
+</a>
+
+![ERPNext](https://img.shields.io/badge/ERPNext-v16-0d0d0d?style=flat-square&logo=frappe&logoColor=f5b301)
+![Frappe](https://img.shields.io/badge/Frappe-framework-0d0d0d?style=flat-square&logo=frappe&logoColor=f5b301)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages%20%2B%20Workers%20%2B%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=fff)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-gateway-1a1a1a?style=flat-square)
+![Self-hosted LLM](https://img.shields.io/badge/self--hosted-LLM-6b7f4e?style=flat-square)
 
 </div>
 
----
+<br/>
+
+<!-- <img src="https://github.com/Adam4315/Adam4315/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/> -->
 
 <div align="center">
 
-### `▸ SAVE` — Reach Me
+<img src="https://github-readme-stats.vercel.app/api?username=Adam4315&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=D43D2A&icon_color=c9a227" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam4315&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=D43D2A&langs_count=8" height="165" alt="langs"/>
 
-🌍 **[adambravia.site](https://adambravia.site)** &nbsp;·&nbsp; ✉️ **[contact@adambravia.site](mailto:contact@adambravia.site)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/adam-bravia-suksma-4ba8783a7/)**
+<img src="https://streak-stats.demolab.com?user=Adam4315&theme=tokyonight&hide_border=true&background=0D0D0D&ring=D43D2A&currStreakLabel=C9A227" height="165" alt="streak"/>
 
-```
-        ★ REACH 100 IN FLAPPY CONSULTANT FOR A SECRET ★
-              [ ENTER / CLICK / TAP ] TO CONTINUE
-```
+</div>
+
+<div align="center">
+
+📮 **contact@adambravia.site** · Depok, West Java 🇮🇩
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:d43d2a&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
